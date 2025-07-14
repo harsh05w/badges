@@ -1,4 +1,2 @@
 # badges
-dsfs
-czx
-xzcv
+
