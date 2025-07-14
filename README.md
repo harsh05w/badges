@@ -1,2 +1,2 @@
-fj# badges
+badges
 
